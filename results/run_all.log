@@ -1,0 +1,47 @@
+Problem 1: M/M/1
+  simulating mm1_lam200_mu1000: 10 replications, warm-up 50 s, window 500 s
+  simulating mm1_lam500_mu1000: 10 replications, warm-up 20 s, window 200 s
+  simulating mm1_lam800_mu1000: 10 replications, warm-up 12.5 s, window 125 s
+  simulating mm1_lam950_mu1000: 10 replications, warm-up 10.5 s, window 105 s
+  simulating mm1_lam950_mu1000_double: 10 replications, warm-up 21.1 s, window 211 s
+  simulating mm1_lam950_mu1000: 10 replications, warm-up 10.5 s, window 105 s
+  problem 1 done in 12.5 s
+Problem 2: M/M/m and M/M/inf
+  simulating mmm_lam1600_mu1000_m2: 10 replications, warm-up 6.25 s, window 62.5 s
+  simulating mmm_lam1600_mu1000_m3: 10 replications, warm-up 6.25 s, window 62.5 s
+  simulating mmm_lam1600_mu1000_m4: 10 replications, warm-up 6.25 s, window 62.5 s
+  simulating mmm_lam1600_mu1000_minf: 10 replications, warm-up 6.25 s, window 62.5 s
+  problem 2 done in 5.8 s
+Problem 3: loss systems
+  simulating mmmm_lam6_mu2_m3: 10 replications, warm-up 1.67e+03 s, window 1.67e+04 s
+  simulating mmmm_lam6_mu2_m7: 10 replications, warm-up 1.67e+03 s, window 1.67e+04 s
+  simulating mmmm_lam6_mu2_m8: 10 replications, warm-up 1.67e+03 s, window 1.67e+04 s
+  simulating loss_two_class_m3: 10 replications, warm-up 3.33e+03 s, window 3.33e+04 s
+  problem 3 done in 6.0 s
+Problem 4: PASTA
+  simulating mm1_lam800_mu1000: 10 replications, warm-up 12.5 s, window 125 s
+  simulating dd1_lam1_x0.6: 1 replications, warm-up 1e+04 s, window 1e+05 s
+  simulating mmmm_lam6_mu2_m3: 10 replications, warm-up 1.67e+03 s, window 1.67e+04 s
+  problem 4 done in 3.2 s
+Problem 5: M/G/1
+  simulating mm1_lam200_mu1000: 10 replications, warm-up 50 s, window 500 s
+  simulating mm1_lam500_mu1000: 10 replications, warm-up 20 s, window 200 s
+  simulating mm1_lam800_mu1000: 10 replications, warm-up 12.5 s, window 125 s
+  simulating mm1_lam950_mu1000: 10 replications, warm-up 10.5 s, window 105 s
+  simulating mg1_deterministic_lam200: 10 replications, warm-up 50 s, window 500 s
+  simulating mg1_deterministic_lam500: 10 replications, warm-up 20 s, window 200 s
+  simulating mg1_deterministic_lam800: 10 replications, warm-up 12.5 s, window 125 s
+  simulating mg1_deterministic_lam950: 10 replications, warm-up 10.5 s, window 105 s
+  simulating mg1_two_point_lam200: 10 replications, warm-up 50 s, window 500 s
+  simulating mg1_two_point_lam500: 10 replications, warm-up 20 s, window 200 s
+  simulating mg1_two_point_lam800: 10 replications, warm-up 12.5 s, window 125 s
+  simulating mg1_two_point_lam950: 10 replications, warm-up 10.5 s, window 105 s
+  problem 5 done in 15.3 s
+Problem 6: vacations
+  simulating md1_lam400_vac_none: 10 replications, warm-up 25 s, window 250 s
+  simulating md1_lam400_vac_det1: 10 replications, warm-up 25 s, window 250 s
+  simulating md1_lam400_vac_det5: 10 replications, warm-up 25 s, window 250 s
+  simulating md1_lam400_vac_exp5: 10 replications, warm-up 25 s, window 250 s
+  problem 6 done in 6.5 s
+all done in 49.3 s; results in /Users/malvinajongbah/Desktop/Networking/hw2/results
+exit=0
